@@ -6,7 +6,7 @@ ADOBE_GIT_URL=https://${ADOBE_GIT_USERNAME}:${ADOBE_GIT_PASSWORD}@git.cloudmanag
 ADOBE_GIT_USERNAME=${ADOBE_GIT_USERNAME}
 ADOBE_GIT_PASSWORD=${ADOBE_GIT_PASSWORD}
 MCAFEE_REPO_LIST=${MCAFEE_REPO_LIST} 
-MCAFEE_REPO_BASE_PATH=git\@github-lvs.corpzone.internalzone.com:patkara/
+MCAFEE_REPO_BASE_PATH=https://github.com/sohailygr/
 # *** Configuration ***
 echo WORK_DIR=${WORK_DIR}
 echo ADOBE_GIT_URL=${ADOBE_GIT_URL}
